@@ -5,7 +5,8 @@ var const_val = {
     CHAR_WIDTH  : 64,
     CHAR_HEIGHT : 64,
     PLAYER_VEL  : 10,
-    ROOT2       : 1.41421
+    ROOT2       : 1.41421,
+    GR          : 0.4
 };
 
 module.exports = const_val;

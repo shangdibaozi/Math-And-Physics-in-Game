@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Applications/CocosCreator.app/Contents/Resources/engine"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/*.jsb.js" : true,
+			".circleci" : true,
+			".idea" : true,
+			".vscode" : true,
+			"bin" : true,
+			"docs" : true,
+			"editor" : true,
+			"test" : true,
+			"licenses" : true
+		}
+	}
+}
